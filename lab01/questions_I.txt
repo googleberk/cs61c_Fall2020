@@ -1,0 +1,4 @@
+======================  Questions encountered when doing the lab =====================
+1. in cgdb session, if you run [show env] command, it would show too much info, but I can only see the last several of it, I cannot scroll up to the very beginning, how can I do so?
+
+2. 

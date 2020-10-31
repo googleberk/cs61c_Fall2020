@@ -1,6 +1,7 @@
-1.
-2.
-3.
+1. [set args arglist] specify arglist for next run; [set args] specify empty argument list
+2. [ break/b [file:]line ] set breakpoint at line number [in file], eg: break main.c:37
+   [ break [file:]func   ] set breakpoint at func [in file]
+3. 
 4.
 5.
 6.
