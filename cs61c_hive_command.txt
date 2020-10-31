@@ -1,0 +1,4 @@
+========== Command use to scp from local machines to hive ===============
+1. scp -r /Users/smallapple/Desktop/cs61c_fall2020/lab01 cs199-dcv@hive1.cs.berkeley.edu:~/Desktop/cs61c_fall2020
+
+2. 
